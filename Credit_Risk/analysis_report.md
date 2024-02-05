@@ -24,7 +24,7 @@
 
   6. The resampled model follows the same steps. but with a resampled data set created using `RandomOverSample`.
 
-    * The resampled model is important to view in this situation because the `high_risk` data is severely under-represented in the data set.
+     * The resampled model is important to view in this situation because the `high_risk` data is severely under-represented in the data set.
 
 </br>
 
