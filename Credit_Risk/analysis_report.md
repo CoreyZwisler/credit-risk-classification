@@ -6,7 +6,7 @@
 
 * The purpose of this analysis is to look at the past history of borrowers and create a Machine Learning model to predict the credit worthiness of borrowers. This will allow lending providers to assess whether or not a borrow is at high risk of not being able to pay back the money they borrowed.
 
-* The data I am using to make these predicitions is from the `lending_data.csv` provided. After converting it into a dataframe, I can see that the data provides useful information including: the size of the loan, the interest rate, the borrower's yearly income, the debt-to-income ratio, how many accounts the borrower has, the number of deragatory marks the borrow has, their total debt, and the status of the loan (`healthy[0]`, `high_risk[1]`).
+* The data I am using to make these predicitions is from the `lending_data.csv` provided. After converting it into a dataframe, I can see that the data provides useful information including: the size of the loan, the interest rate, the borrower's yearly income, the debt-to-income ratio, how many accounts the borrower has, the number of deragatory marks the borrow has, their total debt, and the status of the loan (`healthy`, `high_risk`).
 
   * Using this data, I am trying to predict the odds of a loan being healthy (`loan_status`) using the rest of the provided data.
 
