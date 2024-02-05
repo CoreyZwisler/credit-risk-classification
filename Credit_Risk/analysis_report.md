@@ -50,8 +50,6 @@
 
 ## Summary
 
-If you do not recommend any of the models, please justify your reasoning.
-
 * After analyzing the results from both models, I would recommend using Model 2. 
 
 * My reasoning for this is because this model generated fewer false positives for the `1` loans while maintaining a high accuracy score. This is important because we don't want the model saying that a loan is healthy when it is in fact, not healthy. 
