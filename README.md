@@ -16,11 +16,11 @@ The instructions for this Challenge are divided into the following subsections:
 ## Split the Data into Training and Testing Sets
 * Open the starter code notebook and use it to complete the following steps:
 
-  1. Read the `lending_data.csv` data from the Resources folder into a Pandas DataFrame.
+  * Read the `lending_data.csv` data from the Resources folder into a Pandas DataFrame.
 
-  2. Create the labels set (`y`) from the “loan_status” column, and then create the features (`X`) DataFrame from the remaining columns.
+  * Create the labels set (`y`) from the “loan_status” column, and then create the features (`X`) DataFrame from the remaining columns.
 
-  3. Split the data into training and testing datasets by using train_test_split.
+  * Split the data into training and testing datasets by using train_test_split.
 
 </br>
 
